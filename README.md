@@ -54,6 +54,7 @@ Getting started as a developer shouldn't cost a fortune. This list collects the 
 
 ## Developer Tools
 
+- [Kilobat Pro for Students](https://kilobat.app/students) -- Mac network diagnostics and hotspot data monitoring. Students aged 13+ in a degree-granting program can request a license using a school email and renew while enrolled. **Value:** One year of Pro free for two Macs.
 - [GitHub Student Developer Pack](https://education.github.com/pack) -- Free access to 100+ developer tools in one place. Includes GitHub Pro, free domains, cloud credits, and more. **Value:** $200+/year
 - [GitHub Copilot](https://github.com/features/copilot) -- Free AI pair programmer for verified students and open source maintainers. **Value:** $100/year
 - [JetBrains](https://www.jetbrains.com/community/education/) -- Free access to all professional IDEs: IntelliJ IDEA, PyCharm, WebStorm, and more. **Value:** $649/year
